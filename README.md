@@ -1,72 +1,52 @@
 <h1 align="center">Hi 👋, I'm Koushik Santra</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Focused</h3>
+<h3 align="center">Aspiring DevOps Engineer | AWS | Azure | Terraform | Docker | Kubernetes | CI/CD Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
-
-I'm a self-driven DevOps Engineer, relaunching my tech career after a personal career gap since 2018. I'm currently focused on building real DevOps projects using cutting-edge tools and practices.
-
-- 🌱 I’m currently learning: **Terraform, Jenkins, Docker, Kubernetes, AWS, Azure, CI/CD pipelines**
-- 🛠️ Tools I use: Linux • Git • GitHub • Jenkins • Docker • Kubernetes • Ansible • Terraform • Bash • Python
-- 🔁 Following a **500+ hour hands-on DevOps roadmap**
-- 💻 Building end-to-end projects with GitHub Actions, Azure Pipelines, and Infrastructure as Code
-- 📘 Documenting everything on GitHub with READMEs and CI/CD pipelines
+### 💫 About Me
+- 🔭 I’m currently building DevOps Projects with end-to-end CI/CD pipelines  
+- 🌱 I’m learning **AWS, Azure, Terraform, Jenkins, Docker, and Kubernetes**  
+- 👨‍💻 All my projects are available at: [github.com/koushik012](https://github.com/koushik012)  
+- 💬 Ask me about **DevOps Tools, Cloud, Linux, Automation**  
+- 📫 How to reach me: `your-email@example.com`  
+- ⚡ Fun fact: I love debugging complex pipelines!
 
 ---
 
-## 🔧 Tech Stack & Tools
+### 🛠️ Languages and Tools
 
-- ☁️ **Cloud**: AWS, Azure
-- 🔄 **CI/CD**: Jenkins, GitHub Actions, Azure Pipelines
-- 📦 **Containers**: Docker, Docker Compose, Kubernetes
-- ⚙️ **Infra as Code**: Terraform, Ansible
-- 🐧 **OS & Scripting**: Linux, Bash, Python
-
----
-
-## 📂 Featured Projects (Coming Soon)
-
-> Full CI/CD + Infra projects will be pinned here with:
-> - Architecture diagram
-> - Tools used
-> - How to run/setup
-> - GitHub Actions / Jenkinsfile
-> - Docker / K8s config
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushik012&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik012&layout=compact&theme=radical" alt="langs"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+### 📈 GitHub Stats
 
-- [LinkedIn](#) (add your link)
-- [Email](#) (add your email)
-- [Resume (Google Drive)](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushik012&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik012&theme=github-dark&hide_border=true" width="45%" />
+</p>
 
 ---
 
-*Thanks for visiting my profile! Let's automate, scale, and ship awesome things together 🚀*
+### 🚀 DevOps Projects
 
+- 🔧 CI/CD Java App with Jenkins, GitHub, Maven, Nexus, SonarQube, Tomcat
+- ☸️ Docker + Kubernetes Microservices with Load Balancer
+- ☁️ AWS Infrastructure Provisioning with Terraform
+- 🔄 Azure Pipelines + GitHub Actions + ARM Templates
+- ⚙️ Bash + Python Automation Scripts
 
-<!--
-**koushik012/koushik012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔗 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https:/)]()
